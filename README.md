@@ -1,5 +1,5 @@
 # Google Data Analytics Capstone Case Study Project: 
-R Project Bellabeat Case Study
+## R Project Bellabeat Case Study
 
 Capstone Project for Google Data Analytics Professional Certification Course using R programming Language
 
