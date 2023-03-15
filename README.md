@@ -1,4 +1,6 @@
-# Google Data Analytics Capstone Case Study Project: R Project Bellabeat Case Study
+# Google Data Analytics Capstone Case Study Project: 
+R Project Bellabeat Case Study
+
 Capstone Project for Google Data Analytics Professional Certification Course using R programming Language
 
 Bellabeat: What Smart Plays Can a Health Technology Business Make?
